@@ -6,7 +6,7 @@ const {
   ProductTag
 } = require('../../models');
 
-// The `/api/products` endpoint
+//for `/api/products`
 
 // get all products
 router.get('/', (req, res) => {
